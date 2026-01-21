@@ -1,6 +1,6 @@
 <!-- 👋 Minimalistic GitHub Profile - White | Black | Purple Theme -->
 
-<h1 align="center">Hi, I'm <span style="color:#a259ff;">Your Name</span> 👨‍💻</h1>
+<h1 align="center">Hi, I'm <span style="color:#a259ff;">VENKATESH</span> </h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> | <b>Open Source Enthusiast</b> | <b>Lifelong Learner</b>
