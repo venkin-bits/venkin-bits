@@ -5,8 +5,8 @@
 
 ---
 
-### ✨ About Me
-- 🛡️ Interested in **Cyber Security**, full‑stack, and cloud.
+###  About Me
+- 🛡️ Interested in **Cyber Security**, networking, and cloud.
 - 📚 Always learning and building practical projects.
 - 🌏 Based in Chennai, India.
 - 💡 Open to collaborations on security and web projects.
