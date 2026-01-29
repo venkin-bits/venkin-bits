@@ -4,23 +4,23 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
-- 🛡️ Passionate about **cyber security**, networking, and cloud.
-- 🧠 Enjoys critical problem solving and hands‑on learning.
-- 🌏 Based in Chennai, India.
-- 🤝 Open to collaborations on security, web, and infra projects.
+-  Passionate about **cyber security**, networking, and cloud.
+-  Enjoys critical problem solving and hands‑on learning.
+-  Based in Chennai, India.
+-  Open to collaborations on security, web, and infra projects.
 
 ---
 
-## 🌐 Socials
+##  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://in.linkedin.com/in/j-venkatesh-a3a9b5363)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:YOUR_EMAIL@example.com) <!-- change this -->
 
 ---
 
-## 💻 Tech Stack (Badges)
+##  Tech Stack (Badges)
 
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=a855f7)
 ![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=a855f7)
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
