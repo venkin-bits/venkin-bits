@@ -16,7 +16,7 @@
 ##  Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://in.linkedin.com/in/j-venkatesh-a3a9b5363)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:YOUR_EMAIL@example.com) <!-- change this -->
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:jv0023@srmist.edu.in) <!-- change this -->
 
 ---
 
