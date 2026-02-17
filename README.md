@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#a855f7;">Venkatesh</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#a855f7;">Venkatesh</span> </h1>
 <h3 align="center">Cyber Security Student @ SRM Ramapuram</h3>
 
 
